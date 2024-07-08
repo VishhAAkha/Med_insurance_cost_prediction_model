@@ -1,5 +1,8 @@
 #  Medical-Insurance-Cost-Prediction
-Dataset
+This project implements a machine learning model to predict medical insurance costs based on various factors such as age, sex, BMI, smoking habits, region, and number of children. The dataset used for this project contains 3630 instances with 6 features.
+
+
+Dataset:
 The dataset used is sourced from Google Drive (link provided in the README) and contains the following columns:
 
 Age
